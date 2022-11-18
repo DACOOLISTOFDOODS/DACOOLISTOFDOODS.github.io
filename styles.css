@@ -20,14 +20,14 @@
     position: relative;
     background: #292929;
     height:100vh;
-    border-radius: 0 45px 45px 0;
+    border-radius: 0 60px 60px 0;
   }
   
   .wrapper .sidebar{
-    width: 150px;
+    width: 275px;
     height: 100%;
     background: #171717;
-    border-radius: 0 30px 30px 0;
+    border-radius: 0 60px 60px 0;
     padding: 30px 0px;
     position: fixed;
   }
@@ -36,6 +36,7 @@
     margin-bottom: 30px; /*do padding instead of this*/
     margin-left: -5px;
     text-align: center;
+    font-size: 32pt;
   }
 
   .wrapper .sidebar .home a{
@@ -46,13 +47,15 @@
 
   .homelink:hover{
     border: solid #776ba4;
+    border-width: 6px;
     padding: 5px; /*find better color*/
   }
   
   .wrapper .sidebar ul li a{
-    padding:15px;
+    padding:17px;
     border-bottom: 1px solid rgba(0,0,0,0.05);
     border-top: 1px solid rgba(135, 133, 133, 0.05);
+    font-size: 16.5pt;
   }    
   
   .wrapper .sidebar ul li a{
@@ -70,8 +73,9 @@
 
   .wrapper .main_content{
     width: 100%;
-    margin-top: 10px;
-    margin-left: 160px;
+    margin-top: 25px;
+    margin-left: 300px;
+    font-size: 14pt;
     color:var(--textcolor);
   }
   
