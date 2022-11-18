@@ -24,7 +24,7 @@
   }
   
   .wrapper .sidebar{
-    width: 275px;
+    width: 252px;
     height: 100%;
     background: #171717;
     border-radius: 0 60px 60px 0;
@@ -74,7 +74,7 @@
   .wrapper .main_content{
     width: 100%;
     margin-top: 25px;
-    margin-left: 300px;
+    margin-left: 277px;
     font-size: 14pt;
     color:var(--textcolor);
   }
