@@ -34,7 +34,7 @@
   
   .wrapper .sidebar h2{
     margin-bottom: 30px; /*do padding instead of this*/
-    margin-left: -5px;
+    margin-right: 15px;
     text-align: center;
     font-size: 32pt;
   }
