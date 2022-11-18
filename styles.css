@@ -68,13 +68,13 @@
   }
       
   .wrapper .sidebar ul li:hover a{
-    color: #040404;
+    color: #020202;
   }
 
   .wrapper .main_content{
     width: 100%;
-    margin-top: 25px;
-    margin-left: 277px;
+    margin-top: 22px;
+    margin-left: 275px;
     font-size: 14pt;
     color:var(--textcolor);
   }
