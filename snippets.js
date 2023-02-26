@@ -4,7 +4,7 @@ document.getElementById('sidebar').innerHTML = `
 <ul>
     <li><a href="test.html">test</a></li>
     <li><a href="test2.html">test2</a></li>
-    <li><a href="test3.html">test3</a></li>
+    <li><a href="kotor.html">KOTOR</a></li>
 </ul> 
 `;
 document.getElementById('head').innerHTML += `<link rel="icon" type="image/x-icon" href="favicon.ico">`;
